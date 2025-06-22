@@ -1,0 +1,14 @@
+text,label
+"Buy now",spam
+"Limited offer",spam
+"Followuson",spam
+"Nice pic",not_spam
+"Love this",not_spam
+"Check this out",spam
+"National", not_spam
+"Congratulataions!©",not_spam
+"Click the link below to",spam
+"claim your prize NOW:",spam
+"www.fakeprize.com", spam
+"Hurry! Limited",spam
+"time only!",spam
